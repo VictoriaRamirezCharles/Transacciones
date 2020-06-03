@@ -1,0 +1,7 @@
+C:\Users\Victoria\source\repos\Transacciones\Transacciones\bin\Debug\Transacciones.exe.config
+C:\Users\Victoria\source\repos\Transacciones\Transacciones\bin\Debug\Transacciones.exe
+C:\Users\Victoria\source\repos\Transacciones\Transacciones\bin\Debug\Transacciones.pdb
+C:\Users\Victoria\source\repos\Transacciones\Transacciones\obj\Debug\Transacciones.csprojAssemblyReference.cache
+C:\Users\Victoria\source\repos\Transacciones\Transacciones\obj\Debug\Transacciones.csproj.CoreCompileInputs.cache
+C:\Users\Victoria\source\repos\Transacciones\Transacciones\obj\Debug\Transacciones.exe
+C:\Users\Victoria\source\repos\Transacciones\Transacciones\obj\Debug\Transacciones.pdb
